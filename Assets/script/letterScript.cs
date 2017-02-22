@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class letterScript : MonoBehaviour {
-
+    // тестик!гит
 	public LayerMask mask;
 	public bool isRead = false;
 	private Vector3 oldPosition;
